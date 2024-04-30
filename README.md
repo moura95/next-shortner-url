@@ -1,3 +1,3 @@
 # Shortner Front
 
-![img](src/assets/img.png)
+![img](assets/img.png)
