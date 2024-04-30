@@ -7,9 +7,9 @@ export default function Navbar() {
         <li>
           <a href="/">Home</a>
         </li>
-        <li>
+        {/* <li>
           <a href="/metrics">Metrics</a>
-        </li>
+        </li> */}
 
         <li>
           <a href="/create">Create</a>
